@@ -317,6 +317,7 @@ def main():
     set_preset(o1, 3)
     result = o1.take_stats()
     print(result)
+    print('123')
     return result
 
 
